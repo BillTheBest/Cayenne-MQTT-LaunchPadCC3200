@@ -46,10 +46,10 @@ public:
 
 		CAYENNE_LOG("Connecting to %s", ssid);
 		if (wifiPassword && strlen(wifiPassword)) {
-			WiFi.begin(ssid, wifiPassword);
+			WiFi.begin((char*)ssid, (char*)wifiPassword);
 		}
 		else {
-			WiFi.begin(ssid);
+			WiFi.begin((char*)ssid);
 		}
 		while (WiFi.status() != WL_CONNECTED) {
 			delay(500);
