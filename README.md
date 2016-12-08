@@ -10,13 +10,13 @@ The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect t
 * And optionally [Sensors BoosterPack](http://embeddedcomputing.weebly.com/sensors-boosterpack.html), required for the CC3200_Sensors example.
 
 ### Software
-* Either [Energia IDE](http://energia.nu) for Windows, Linux or macOS or [embedXcode](http://embedxcode.weebly.com) on macOS.
+* Either [Energia IDE](http://energia.nu/download) for Windows, Linux or macOS or [embedXcode](http://embedxcode.weebly.com) on macOS.
 * [This library](https://github.com/myDevicesIoT/Cayenne-MQTT-LaunchPadCC3200/archive/master.zip).
 * And optionally [Sensors BoosterPack library](https://github.com/rei-vilo/SensorsWeather_Library) for weather sensors, required for the CC3200_Sensors example.
 
 ## Getting Started
 ### Environment Setup
-1. Download and install a compatible IDE. For this example we use the [Energia IDE](http://energia.nu).
+1. Download and install a compatible IDE. For this example we use the [Energia IDE](http://energia.nu/download).
 2. Install the **Energia CC3200 boards**. This is done via **Tools -> Board -> Boards Manager**.
 3. Download this library as a zip file [here](https://github.com/myDevicesIoT/Cayenne-MQTT-LaunchPadCC3200/archive/master.zip).
 4. Install the downloaded zip library. This is done via **Sketch -> Include Library -> Add .ZIP Library**.
