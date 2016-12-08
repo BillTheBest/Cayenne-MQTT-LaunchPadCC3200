@@ -1,5 +1,5 @@
 # Cayenne MQTT LaunchPad CC3200 Library
-The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect to the [Cayenne IoT project builder](https://www.cayenne-mydevices.com). This library is designed to work the LaunchPad CC3200 WiFi board and other LaunchPads using the CC3100 WiFi BoosterPack. With it you can send and recieve data from to and from Cayenne via the bundled the [Eclipse Paho MQTT C/C++ client](https://github.com/eclipse/paho.mqtt.embedded-c).
+The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect to the [Cayenne IoT project builder](https://www.cayenne-mydevices.com). This library is designed to work the LaunchPad CC3200 WiFi board and other LaunchPads using the CC3100 WiFi BoosterPack. With it you can send data to and receive data from Cayenne.
 
 ![alt text](https://cdn-business2.discourse.org/uploads/mydevices/original/2X/c/cde6a60b89efd4d01163e1a2c5335b454cc948a6.jpg)
 
@@ -34,8 +34,9 @@ The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect t
 
 ![alt text](https://cdn-business2.discourse.org/uploads/mydevices/original/2X/b/b5eebfa7a8680b3c25969fc98a7ba391b9b6c624.png)
 
-## Contributors
-Contributions to this library were made by Rei Vilo (rei-vilo).
+## Contributions
+* This library includes the [Eclipse Paho MQTT C/C++ client](https://github.com/eclipse/paho.mqtt.embedded-c).
+* Contributions to this library were made by Rei Vilo (rei-vilo).
 
 ## Cayenne MQTT Libraries
 Additional libraries are available for connecting to Cayenne on other platforms and devices. These can be found at https://github.com/myDevicesIoT.
