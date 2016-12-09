@@ -1,5 +1,5 @@
 # Cayenne MQTT LaunchPad CC3200 Library
-The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect to the [Cayenne IoT project builder](https://www.cayenne-mydevices.com). This library is designed to work the LaunchPad CC3200 WiFi board and other LaunchPads using the CC3100 WiFi BoosterPack. With it you can send data to and receive data from Cayenne.
+The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect to the [Cayenne IoT project builder](https://www.cayenne-mydevices.com). This library is designed to work with the LaunchPad CC3200 WiFi board and other LaunchPads using the CC3100 WiFi BoosterPack. With it you can send data to and receive data from Cayenne.
 
 ![alt text](https://cdn-business2.discourse.org/uploads/mydevices/original/2X/c/cde6a60b89efd4d01163e1a2c5335b454cc948a6.jpg)
 
