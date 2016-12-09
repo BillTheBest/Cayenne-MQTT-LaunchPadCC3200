@@ -27,7 +27,7 @@ The Cayenne MQTT LaunchPad CC3200 Library provides functions to easily connect t
 2. Add a new device using the Bring Your Own Thing API selection.
 
 ### Building Examples
-1. Open one of the included example sketches from **File -> Examples -> Cayenne-MQTTT-LaunchPadCC3200**.
+1. Open one of the included example sketches from **File -> Examples -> Cayenne-MQTT-LaunchPadCC3200**.
 2. Modify the included sketch with your network info, and the Cayenne authentication info you received when adding your device.
 3. Compile and upload the sketch to your device.
 4. Check the Cayenne dashboard to ensure it is receiving sample data from your device.
